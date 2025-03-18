@@ -35,10 +35,10 @@ El estado del proyecto:terminado.
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 <li>CSS</li> 
- *HTML
- *Java Script
- *Visual Studio Code
- *Git y GitHub
+<li>HTML</li> 
+<li>JavaScript</li> 
+<li>Visual Studio Code</li> 
+<li>Git y GitHub</li> 
 
 
 *[Personas Contribuyentes](#personas-contribuyentes)
