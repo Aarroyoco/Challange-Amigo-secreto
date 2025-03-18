@@ -1,8 +1,7 @@
 <h1 align="center" Challenge Amigo Secreto</h1>
 
 
-
-https://challenge-amigo-secreto-pi-blond.vercel.app/
+![screenshot-1742275568909](https://github.com/user-attachments/assets/9736a69e-a378-49fe-b0e6-204ff074ce3f)
 
 Descripción de su proyecto
 
