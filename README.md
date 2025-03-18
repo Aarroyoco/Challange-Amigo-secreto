@@ -44,7 +44,8 @@ El estado del proyecto:terminado.
 ## Autores
 ![Foto Andrea Arroyo](https://github.com/user-attachments/assets/165ddc2c-682e-48f2-bbf6-a8d09fe21b1d)
 
-|<br><sub>Andrea Arroyo C.</sub>](https://github.com/Aarroyoco) | 
+<br><sub>Andrea Arroyo C.<
+(https://github.com/Aarroyoco) | 
 
 * [Licencia](#licencia)
 
