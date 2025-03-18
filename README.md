@@ -3,7 +3,7 @@
 
 ![screenshot-1742275568909](https://github.com/user-attachments/assets/9736a69e-a378-49fe-b0e6-204ff074ce3f)
 
-###Índice
+##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
