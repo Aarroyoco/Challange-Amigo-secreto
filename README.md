@@ -25,12 +25,29 @@ El estado del proyecto:terminado.
 - `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir". 1- `Validar entrada`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar". 2-  `Visualizar la lista:`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada. 4- `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
 *[Acceso al proyecto](#acceso-proyecto)
+\## 📁 Acceso al proyecto
+
+**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+
+\## 🛠️ Abre y ejecuta el proyecto
+
+**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
+ *CSS
+ *HTML
+ *Java Script
+ *Visual Studio Code
+ *Git y GitHub
+
 
 *[Personas Contribuyentes](#personas-contribuyentes)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
+| :---: | :---: | :---: |
 
 * [Licencia](#licencia)
 
