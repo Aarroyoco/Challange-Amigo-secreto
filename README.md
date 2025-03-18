@@ -40,9 +40,6 @@ El estado del proyecto:terminado.
 <li>Visual Studio Code</li> 
 <li>Git y GitHub</li> 
 
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 ## Autores
 
