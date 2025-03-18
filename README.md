@@ -34,7 +34,7 @@ El estado del proyecto:terminado.
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
- *CSS
+<li>CSS</li> 
  *HTML
  *Java Script
  *Visual Studio Code
@@ -46,7 +46,7 @@ El estado del proyecto:terminado.
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | |
 | :---: | :---: | :---: |
 
 * [Licencia](#licencia)
