@@ -42,9 +42,9 @@ El estado del proyecto:terminado.
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 ## Autores
+![Foto Andrea Arroyo](https://github.com/user-attachments/assets/165ddc2c-682e-48f2-bbf6-a8d09fe21b1d)
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | |
-| :---: | :---: | :---: |
+| [<img src="><br><sub>Andrea Arroyo C.</sub>](https://github.com/Aarroyoco) | 
 
 * [Licencia](#licencia)
 
