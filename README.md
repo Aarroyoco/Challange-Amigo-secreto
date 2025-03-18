@@ -3,7 +3,7 @@
 
 ![screenshot-1742275568909](https://github.com/user-attachments/assets/9736a69e-a378-49fe-b0e6-204ff074ce3f)
 
-##Índice
+###Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
@@ -26,10 +26,10 @@ El estado del proyecto:terminado.
 
 *[Acceso al proyecto](#acceso-proyecto)
 \## 📁 Acceso al proyecto
-
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+*https://github.com/Aarroyoco/Challenge-Amigo-secreto.git
 
 \## 🛠️ Abre y ejecuta el proyecto
+*https://challenge-amigo-secreto-pi-blond.vercel.app/
 
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
 
@@ -47,10 +47,10 @@ El estado del proyecto:terminado.
 <br><sub>Andrea Arroyo C.<
 (https://github.com/Aarroyoco) | 
 
-* [Licencia](#licencia)
+* [Licencia](#licencia): Libre para uso acádemico y de demostración
 
 *[Conclusión](#conclusión)
-Descripción de su proyecto
+El siguiente proyecto buscaba que el desarrollador aprendiera a desarrollar una página web con funcionalidades basadas en JavaScrip para ejercitar lo que es la lógica de programación. A través de las construcción de una página web, la cuál consistia en desarrollar un juego, denomiado Amigo Secreto. El proyectó concñuy+o con exito y con la oprtunidad de mejora en el código.
 
 
 Funcionalidades
